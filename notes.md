@@ -1,6 +1,6 @@
 # devops code notes
 # conditional statements
-#sai'notes
+#sai
 #1.if ;
    a=10
    b=20
